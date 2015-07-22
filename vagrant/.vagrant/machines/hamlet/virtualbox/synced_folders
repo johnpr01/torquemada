@@ -1,0 +1,1 @@
+{"virtualbox":{"/jepsen":{"guestpath":"/jepsen","hostpath":"/Users/pjohnson/work/hamlet","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/pjohnson/work/hamlet/vagrant","disabled":false}}}
